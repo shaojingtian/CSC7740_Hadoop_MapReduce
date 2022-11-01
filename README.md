@@ -1,5 +1,4 @@
 # CSC7740_Hadoop_MapReduce
-Project Description
  Use big data frameworks and datasets of Data Engineer job listings to generate output:
 1) a list of word count for skills and knowledges mentioned in the job description.
 2) the count of a phrase (consists of a few or several words) that you want to search in the job
